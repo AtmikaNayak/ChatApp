@@ -2,6 +2,17 @@
 
 A real-time chat application built with the MERN stack and Socket.IO.
 
+## About
+
+ChatApp is a full-stack real-time messaging application designed for simple and responsive communication. It includes secure user authentication, real-time messaging, online user tracking, and persistent message storage.
+
+### Tech Used
+
+- **Frontend:** React, Vite, Tailwind CSS, DaisyUI, Zustand
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Real-Time:** Socket.IO
+- **Authentication:** JWT, HTTP-only cookies, bcrypt
+
 **Live Demo:** https://chatapp-37wh.onrender.com
 
 ## Features
@@ -12,12 +23,6 @@ A real-time chat application built with the MERN stack and Socket.IO.
 - JWT authentication with HTTP-only cookies
 - MongoDB message storage
 - Responsive chat UI
-
-## Tech Stack
-
-**Frontend:** React, Vite, Tailwind CSS, DaisyUI, Zustand  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, Socket.IO  
-**Authentication:** JWT, bcrypt
 
 ## Run Locally
 
